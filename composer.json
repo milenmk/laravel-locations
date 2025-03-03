@@ -1,7 +1,7 @@
 {
   "name": "milenmk/laravel-locations",
   "description": "Add Countries, Cities, Areas, Languages and Currencies models to your Laravel application",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "license": "MIT",
   "autoload": {
     "psr-4": {
