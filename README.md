@@ -13,7 +13,149 @@ Run `composer require milenmk/laravel-locations` to install the package
 
 Run `php artisan milenmk-locations:install` to publish the migrations and seed the database tables
 
+When the command is run, the database tables for the models will be created and then they will be seeded with predefined data included in the json files.
+
 ## Additional Information
+
+Models included in the package:
+
+```
+class Country extends Model
+{
+    protected $fillable = [
+        'name',
+        'code',
+        'phone',
+        'lat',
+        'lng',
+        'translations',
+        'timezones',
+        'numeric_code',
+        'is_activated',
+        'flag',
+        'emojiU',
+        'emoji',
+        'wikiDataId',
+        'currency_symbol',
+        'currency_name',
+        'currency',
+        'region',
+        'native',
+        'tld',
+        'capital',
+        'nationality',
+        'iso3',
+        'created_at',
+        'updated_at',
+    ];
+
+    protected $casts = [
+        'translations' => 'json',
+        'timezones' => 'json',
+        'is_activated' => 'boolean',
+    ];
+
+    public function cities(): HasMany
+    {
+        return $this->hasMany(City::class);
+    }
+}
+```
+
+```
+class City extends Model
+{
+    protected $fillable = [
+        'name',
+        'translations',
+        'is_activated',
+        'country_id',
+        'lat',
+        'lng',
+        'created_at',
+        'updated_at',
+    ];
+
+    protected $casts = [
+        'translations' => 'json',
+        'is_activated' => 'boolean',
+    ];
+
+    public function country(): BelongsTo
+    {
+        return $this->belongsTo(Country::class);
+    }
+
+    public function areas(): HasMany
+    {
+        return $this->hasMany(Area::class);
+    }
+}
+```
+
+```
+class Area extends Model
+{
+    protected $fillable = [
+        'name',
+        'city_id',
+        'translations',
+        'is_activated',
+        'created_at',
+        'updated_at',
+    ];
+
+    protected $casts = [
+        'translations' => 'json',
+        'is_activated' => 'boolean',
+    ];
+
+    public function city(): BelongsTo
+    {
+        return $this->belongsTo(City::class);
+    }
+}
+```
+
+```
+class Currency extends Model
+{
+    protected $fillable = [
+        'translations',
+        'exchange_rate',
+        'symbol',
+        'is_activated',
+        'arabic',
+        'name',
+        'iso',
+        'created_at',
+        'updated_at',
+    ];
+
+    protected $casts = [
+        'translations' => 'array',
+        'is_activated' => 'boolean',
+    ];
+}
+```
+
+```
+class Language extends Model
+{
+    protected $fillable = [
+        'iso',
+        'name',
+        'arabic',
+        'created_at',
+        'updated_at',
+    ];
+
+    protected $casts = [
+        'translations' => 'json',
+        'is_activated' => 'boolean',
+    ];
+}
+```
 
 ## DISCLAIMER
 
