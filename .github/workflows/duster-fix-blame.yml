@@ -1,0 +1,44 @@
+name: Duster Fix
+
+# Commits made in here will not trigger any workflows
+# Checkout Duster's documentation for a workaround
+
+on:
+  pull_request:
+    branches: [develop]
+
+jobs:
+  duster:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.head.ref }}
+          repository: ${{ github.event.pull_request.head.repo.full_name }}
+
+      - name: "Duster Fix"
+        uses: tighten/duster-action@v3
+        with:
+          args: fix --dirty --using="tlint,pint"
+
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        id: auto_commit_action
+        with:
+          commit_message: Dusting
+          commit_user_name: GitHub Action
+          commit_user_email: actions@github.com
+
+      - name: Ignore Duster commit in git blame
+        if: steps.auto_commit_action.outputs.changes_detected == 'true'
+        run: echo ${{ steps.auto_commit_action.outputs.commit_hash }} >> .git-blame-ignore-revs
+
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Ignore Dusting commit in git blame
+          commit_user_name: GitHub Action
+          commit_user_email: actions@github.com
+          branch: ${{ github.head_ref }}
