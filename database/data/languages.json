@@ -1,0 +1,6092 @@
+[
+  {
+    "id": "1",
+    "iso": "ab",
+    "name": "Abkhazian",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "2",
+    "iso": "ace",
+    "name": "Achinese",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "3",
+    "iso": "ach",
+    "name": "Acoli",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "4",
+    "iso": "ada",
+    "name": "Adangme",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "5",
+    "iso": "ady",
+    "name": "Adyghe",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "6",
+    "iso": "aa",
+    "name": "Afar",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "7",
+    "iso": "afh",
+    "name": "Afrihili",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "8",
+    "iso": "af",
+    "name": "Afrikaans",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "9",
+    "iso": "agq",
+    "name": "Aghem",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "10",
+    "iso": "ain",
+    "name": "Ainu",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "11",
+    "iso": "ak",
+    "name": "Akan",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "12",
+    "iso": "akk",
+    "name": "Akkadian",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "13",
+    "iso": "bss",
+    "name": "Akoose",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "14",
+    "iso": "akz",
+    "name": "Alabama",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "15",
+    "iso": "sq",
+    "name": "Albanian",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "16",
+    "iso": "ale",
+    "name": "Aleut",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "17",
+    "iso": "arq",
+    "name": "Algerian Arabic",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "18",
+    "iso": "am",
+    "name": "Amarik",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "19",
+    "iso": "en_US",
+    "name": "American English",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "20",
+    "iso": "ase",
+    "name": "American Sign Language",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "21",
+    "iso": "egy",
+    "name": "Ancient Egyptian",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "22",
+    "iso": "grc",
+    "name": "Ancient Greek",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "23",
+    "iso": "anp",
+    "name": "Angika",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "24",
+    "iso": "njo",
+    "name": "Ao Naga",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "25",
+    "iso": "ar",
+    "name": "Arabik",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "26",
+    "iso": "an",
+    "name": "Aragonese",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "27",
+    "iso": "arc",
+    "name": "Aramaic",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "28",
+    "iso": "aro",
+    "name": "Araona",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "29",
+    "iso": "arp",
+    "name": "Arapaho",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "30",
+    "iso": "arw",
+    "name": "Arawak",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "31",
+    "iso": "hy",
+    "name": "Armenian",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "32",
+    "iso": "rup",
+    "name": "Aromanian",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "33",
+    "iso": "frp",
+    "name": "Arpitan",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "34",
+    "iso": "as",
+    "name": "Assamese",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "35",
+    "iso": "ast",
+    "name": "Asturian",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "36",
+    "iso": "asa",
+    "name": "Asu",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "37",
+    "iso": "cch",
+    "name": "Atsam",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "38",
+    "iso": "en_AU",
+    "name": "Australian English",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "39",
+    "iso": "de_AT",
+    "name": "Austrian German",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "40",
+    "iso": "av",
+    "name": "Avaric",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "41",
+    "iso": "ae",
+    "name": "Avestan",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "42",
+    "iso": "awa",
+    "name": "Awadhi",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "43",
+    "iso": "ay",
+    "name": "Aymara",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "44",
+    "iso": "az",
+    "name": "Azerbaijani",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "45",
+    "iso": "bfq",
+    "name": "Badaga",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "46",
+    "iso": "ksf",
+    "name": "Bafia",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "47",
+    "iso": "bfd",
+    "name": "Bafut",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "48",
+    "iso": "bqi",
+    "name": "Bakhtiari",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "49",
+    "iso": "ban",
+    "name": "Balinese",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "50",
+    "iso": "bal",
+    "name": "Baluchi",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "51",
+    "iso": "bm",
+    "name": "Bambara",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "52",
+    "iso": "bax",
+    "name": "Bamun",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "53",
+    "iso": "bjn",
+    "name": "Banjar",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "54",
+    "iso": "bas",
+    "name": "Basaa",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "55",
+    "iso": "ba",
+    "name": "Bashkir",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "56",
+    "iso": "eu",
+    "name": "Basque",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "57",
+    "iso": "bbc",
+    "name": "Batak Toba",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "58",
+    "iso": "bar",
+    "name": "Bavarian",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "59",
+    "iso": "bej",
+    "name": "Beja",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "60",
+    "iso": "be",
+    "name": "Belarus kasa",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "61",
+    "iso": "bem",
+    "name": "Bemba",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "62",
+    "iso": "bez",
+    "name": "Bena",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "63",
+    "iso": "bn",
+    "name": "Bengali kasa",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "64",
+    "iso": "bew",
+    "name": "Betawi",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "65",
+    "iso": "my",
+    "name": "Bɛɛmis kasa",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "66",
+    "iso": "bho",
+    "name": "Bhojpuri",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "67",
+    "iso": "bik",
+    "name": "Bikol",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "68",
+    "iso": "bin",
+    "name": "Bini",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "69",
+    "iso": "bpy",
+    "name": "Bishnupriya",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "70",
+    "iso": "bi",
+    "name": "Bislama",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "71",
+    "iso": "byn",
+    "name": "Blin",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "72",
+    "iso": "zbl",
+    "name": "Blissymbols",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "73",
+    "iso": "brx",
+    "name": "Bodo",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "74",
+    "iso": "en",
+    "name": "Borɔfo",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "75",
+    "iso": "bs",
+    "name": "Bosnian",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "76",
+    "iso": "bg",
+    "name": "Bɔlgeria kasa",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "77",
+    "iso": "brh",
+    "name": "Brahui",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "78",
+    "iso": "bra",
+    "name": "Braj",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "79",
+    "iso": "pt_BR",
+    "name": "Brazilian Portuguese",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "80",
+    "iso": "br",
+    "name": "Breton",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "81",
+    "iso": "en_GB",
+    "name": "British English",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "82",
+    "iso": "bug",
+    "name": "Buginese",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "83",
+    "iso": "bum",
+    "name": "Bulu",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "84",
+    "iso": "bua",
+    "name": "Buriat",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "85",
+    "iso": "cad",
+    "name": "Caddo",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "86",
+    "iso": "frc",
+    "name": "Cajun French",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "87",
+    "iso": "en_CA",
+    "name": "Canadian English",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "88",
+    "iso": "fr_CA",
+    "name": "Canadian French",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "89",
+    "iso": "yue",
+    "name": "Cantonese",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "90",
+    "iso": "cps",
+    "name": "Capiznon",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "91",
+    "iso": "car",
+    "name": "Carib",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "92",
+    "iso": "ca",
+    "name": "Catalan",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "93",
+    "iso": "cay",
+    "name": "Cayuga",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "94",
+    "iso": "ceb",
+    "name": "Cebuano",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "95",
+    "iso": "tzm",
+    "name": "Central Atlas Tamazight",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "96",
+    "iso": "dtp",
+    "name": "Central Dusun",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "97",
+    "iso": "ckb",
+    "name": "Central Kurdish",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "98",
+    "iso": "esu",
+    "name": "Central Yupik",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "99",
+    "iso": "shu",
+    "name": "Chadian Arabic",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "100",
+    "iso": "chg",
+    "name": "Chagatai",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "101",
+    "iso": "ch",
+    "name": "Chamorro",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "102",
+    "iso": "ce",
+    "name": "Chechen",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "103",
+    "iso": "chr",
+    "name": "Cherokee",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "104",
+    "iso": "chy",
+    "name": "Cheyenne",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "105",
+    "iso": "chb",
+    "name": "Chibcha",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "106",
+    "iso": "cgg",
+    "name": "Chiga",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "107",
+    "iso": "qug",
+    "name": "Chimborazo Highland Quichua",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "108",
+    "iso": "chn",
+    "name": "Chinook Jargon",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "109",
+    "iso": "chp",
+    "name": "Chipewyan",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "110",
+    "iso": "cho",
+    "name": "Choctaw",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "111",
+    "iso": "cu",
+    "name": "Church Slavic",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "112",
+    "iso": "chk",
+    "name": "Chuukese",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "113",
+    "iso": "cv",
+    "name": "Chuvash",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "114",
+    "iso": "nwc",
+    "name": "Classical Newari",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "115",
+    "iso": "syc",
+    "name": "Classical Syriac",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "116",
+    "iso": "ksh",
+    "name": "Colognian",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "117",
+    "iso": "swb",
+    "name": "Comorian",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "118",
+    "iso": "swc",
+    "name": "Congo Swahili",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "119",
+    "iso": "cop",
+    "name": "Coptic",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "120",
+    "iso": "kw",
+    "name": "Cornish",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "121",
+    "iso": "co",
+    "name": "Corsican",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "122",
+    "iso": "cr",
+    "name": "Cree",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "123",
+    "iso": "mus",
+    "name": "Creek",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "124",
+    "iso": "crh",
+    "name": "Crimean Turkish",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "125",
+    "iso": "hr",
+    "name": "Croatian",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "126",
+    "iso": "dak",
+    "name": "Dakota",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "127",
+    "iso": "da",
+    "name": "Danish",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "128",
+    "iso": "dar",
+    "name": "Dargwa",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "129",
+    "iso": "dzg",
+    "name": "Dazaga",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "130",
+    "iso": "del",
+    "name": "Delaware",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "131",
+    "iso": "nl",
+    "name": "Dɛɛkye",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "132",
+    "iso": "din",
+    "name": "Dinka",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "133",
+    "iso": "dv",
+    "name": "Divehi",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "134",
+    "iso": "doi",
+    "name": "Dogri",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "135",
+    "iso": "dgr",
+    "name": "Dogrib",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "136",
+    "iso": "dua",
+    "name": "Duala",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "137",
+    "iso": "dyu",
+    "name": "Dyula",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "138",
+    "iso": "dz",
+    "name": "Dzongkha",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "139",
+    "iso": "frs",
+    "name": "Eastern Frisian",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "140",
+    "iso": "efi",
+    "name": "Efik",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "141",
+    "iso": "arz",
+    "name": "Egyptian Arabic",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "142",
+    "iso": "eka",
+    "name": "Ekajuk",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "143",
+    "iso": "elx",
+    "name": "Elamite",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "144",
+    "iso": "ebu",
+    "name": "Embu",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "145",
+    "iso": "egl",
+    "name": "Emilian",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "146",
+    "iso": "myv",
+    "name": "Erzya",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "147",
+    "iso": "eo",
+    "name": "Esperanto",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "148",
+    "iso": "et",
+    "name": "Estonian",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "149",
+    "iso": "pt_PT",
+    "name": "European Portuguese",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "150",
+    "iso": "es_ES",
+    "name": "European Spanish",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "151",
+    "iso": "ee",
+    "name": "Ewe",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "152",
+    "iso": "ewo",
+    "name": "Ewondo",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "153",
+    "iso": "ext",
+    "name": "Extremaduran",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "154",
+    "iso": "fan",
+    "name": "Fang",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "155",
+    "iso": "fat",
+    "name": "Fanti",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "156",
+    "iso": "fo",
+    "name": "Faroese",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "157",
+    "iso": "hif",
+    "name": "Fiji Hindi",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "158",
+    "iso": "fj",
+    "name": "Fijian",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "159",
+    "iso": "fil",
+    "name": "Filipino",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "160",
+    "iso": "fi",
+    "name": "Finnish",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "161",
+    "iso": "nl_BE",
+    "name": "Flemish",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "162",
+    "iso": "fon",
+    "name": "Fon",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "163",
+    "iso": "gur",
+    "name": "Frafra",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "164",
+    "iso": "fr",
+    "name": "Frɛnkye",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "165",
+    "iso": "fur",
+    "name": "Friulian",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "166",
+    "iso": "ff",
+    "name": "Fulah",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "167",
+    "iso": "gaa",
+    "name": "Ga",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "168",
+    "iso": "gag",
+    "name": "Gagauz",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "169",
+    "iso": "gl",
+    "name": "Galician",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "170",
+    "iso": "gan",
+    "name": "Gan Chinese",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "171",
+    "iso": "lg",
+    "name": "Ganda",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "172",
+    "iso": "gay",
+    "name": "Gayo",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "173",
+    "iso": "gba",
+    "name": "Gbaya",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "174",
+    "iso": "gez",
+    "name": "Geez",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "175",
+    "iso": "ka",
+    "name": "Georgian",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "176",
+    "iso": "aln",
+    "name": "Gheg Albanian",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "177",
+    "iso": "bbj",
+    "name": "Ghomala",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "178",
+    "iso": "glk",
+    "name": "Gilaki",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "179",
+    "iso": "gil",
+    "name": "Gilbertese",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "180",
+    "iso": "gom",
+    "name": "Goan Konkani",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "181",
+    "iso": "gon",
+    "name": "Gondi",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "182",
+    "iso": "gor",
+    "name": "Gorontalo",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "183",
+    "iso": "got",
+    "name": "Gothic",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "184",
+    "iso": "grb",
+    "name": "Grebo",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "185",
+    "iso": "el",
+    "name": "Greek kasa",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "186",
+    "iso": "gn",
+    "name": "Guarani",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "187",
+    "iso": "gu",
+    "name": "Gujarati",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "188",
+    "iso": "guz",
+    "name": "Gusii",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "189",
+    "iso": "gwi",
+    "name": "Gwichʼin",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "190",
+    "iso": "de",
+    "name": "Gyaaman",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "191",
+    "iso": "jv",
+    "name": "Gyabanis kasa",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "192",
+    "iso": "ja",
+    "name": "Gyapan kasa",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "193",
+    "iso": "hai",
+    "name": "Haida",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "194",
+    "iso": "ht",
+    "name": "Haitian",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "195",
+    "iso": "hak",
+    "name": "Hakka Chinese",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "196",
+    "iso": "hu",
+    "name": "Hangri kasa",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "197",
+    "iso": "ha",
+    "name": "Hausa",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "198",
+    "iso": "haw",
+    "name": "Hawaiian",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "199",
+    "iso": "he",
+    "name": "Hebrew",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "200",
+    "iso": "hz",
+    "name": "Herero",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "201",
+    "iso": "hil",
+    "name": "Hiligaynon",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "202",
+    "iso": "hi",
+    "name": "Hindi",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "203",
+    "iso": "ho",
+    "name": "Hiri Motu",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "204",
+    "iso": "hit",
+    "name": "Hittite",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "205",
+    "iso": "hmn",
+    "name": "Hmong",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "206",
+    "iso": "hup",
+    "name": "Hupa",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "207",
+    "iso": "iba",
+    "name": "Iban",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "208",
+    "iso": "ibb",
+    "name": "Ibibio",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "209",
+    "iso": "is",
+    "name": "Icelandic",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "210",
+    "iso": "io",
+    "name": "Ido",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "211",
+    "iso": "ig",
+    "name": "Igbo",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "212",
+    "iso": "ilo",
+    "name": "Iloko",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "213",
+    "iso": "smn",
+    "name": "Inari Sami",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "214",
+    "iso": "id",
+    "name": "Indonihyia kasa",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "215",
+    "iso": "izh",
+    "name": "Ingrian",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "216",
+    "iso": "inh",
+    "name": "Ingush",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "217",
+    "iso": "ia",
+    "name": "Interlingua",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "218",
+    "iso": "ie",
+    "name": "Interlingue",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "219",
+    "iso": "iu",
+    "name": "Inuktitut",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "220",
+    "iso": "ik",
+    "name": "Inupiaq",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "221",
+    "iso": "ga",
+    "name": "Irish",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "222",
+    "iso": "it",
+    "name": "Italy kasa",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "223",
+    "iso": "jam",
+    "name": "Jamaican Creole English",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "224",
+    "iso": "kaj",
+    "name": "Jju",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "225",
+    "iso": "dyo",
+    "name": "Jola-Fonyi",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "226",
+    "iso": "jrb",
+    "name": "Judeo-Arabic",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "227",
+    "iso": "jpr",
+    "name": "Judeo-Persian",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "228",
+    "iso": "jut",
+    "name": "Jutish",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "229",
+    "iso": "kbd",
+    "name": "Kabardian",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "230",
+    "iso": "kea",
+    "name": "Kabuverdianu",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "231",
+    "iso": "kab",
+    "name": "Kabyle",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "232",
+    "iso": "kac",
+    "name": "Kachin",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "233",
+    "iso": "kgp",
+    "name": "Kaingang",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "234",
+    "iso": "kkj",
+    "name": "Kako",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "235",
+    "iso": "kl",
+    "name": "Kalaallisut",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "236",
+    "iso": "kln",
+    "name": "Kalenjin",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "237",
+    "iso": "xal",
+    "name": "Kalmyk",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "238",
+    "iso": "kam",
+    "name": "Kamba",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "239",
+    "iso": "km",
+    "name": "Kambodia kasa",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "240",
+    "iso": "kbl",
+    "name": "Kanembu",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "241",
+    "iso": "kn",
+    "name": "Kannada",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "242",
+    "iso": "kr",
+    "name": "Kanuri",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "243",
+    "iso": "kaa",
+    "name": "Kara-Kalpak",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "244",
+    "iso": "krc",
+    "name": "Karachay-Balkar",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "245",
+    "iso": "krl",
+    "name": "Karelian",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "246",
+    "iso": "ks",
+    "name": "Kashmiri",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "247",
+    "iso": "csb",
+    "name": "Kashubian",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "248",
+    "iso": "kaw",
+    "name": "Kawi",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "249",
+    "iso": "kk",
+    "name": "Kazakh",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "250",
+    "iso": "ken",
+    "name": "Kenyang",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "251",
+    "iso": "kha",
+    "name": "Khasi",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "252",
+    "iso": "kho",
+    "name": "Khotanese",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "253",
+    "iso": "khw",
+    "name": "Khowar",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "254",
+    "iso": "ki",
+    "name": "Kikuyu",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "255",
+    "iso": "kmb",
+    "name": "Kimbundu",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "256",
+    "iso": "krj",
+    "name": "Kinaray-a",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "257",
+    "iso": "kiu",
+    "name": "Kirmanjki",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "258",
+    "iso": "tlh",
+    "name": "Klingon",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "259",
+    "iso": "bkm",
+    "name": "Kom",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "260",
+    "iso": "kv",
+    "name": "Komi",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "261",
+    "iso": "koi",
+    "name": "Komi-Permyak",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "262",
+    "iso": "kg",
+    "name": "Kongo",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "263",
+    "iso": "kok",
+    "name": "Konkani",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "264",
+    "iso": "ko",
+    "name": "Korea kasa",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "265",
+    "iso": "kfo",
+    "name": "Koro",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "266",
+    "iso": "kos",
+    "name": "Kosraean",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "267",
+    "iso": "avk",
+    "name": "Kotava",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "268",
+    "iso": "khq",
+    "name": "Koyra Chiini",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "269",
+    "iso": "ses",
+    "name": "Koyraboro Senni",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "270",
+    "iso": "kpe",
+    "name": "Kpelle",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "271",
+    "iso": "kri",
+    "name": "Krio",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "272",
+    "iso": "kj",
+    "name": "Kuanyama",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "273",
+    "iso": "kum",
+    "name": "Kumyk",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "274",
+    "iso": "ku",
+    "name": "Kurdish",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "275",
+    "iso": "kru",
+    "name": "Kurukh",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "276",
+    "iso": "kut",
+    "name": "Kutenai",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "277",
+    "iso": "nmg",
+    "name": "Kwasio",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "278",
+    "iso": "zh",
+    "name": "Kyaena kasa",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "279",
+    "iso": "cs",
+    "name": "Kyɛk kasa",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "280",
+    "iso": "ky",
+    "name": "Kyrgyz",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "281",
+    "iso": "quc",
+    "name": "Kʼicheʼ",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "282",
+    "iso": "lad",
+    "name": "Ladino",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "283",
+    "iso": "lah",
+    "name": "Lahnda",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "284",
+    "iso": "lkt",
+    "name": "Lakota",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "285",
+    "iso": "lam",
+    "name": "Lamba",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "286",
+    "iso": "lag",
+    "name": "Langi",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "287",
+    "iso": "lo",
+    "name": "Lao",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "288",
+    "iso": "ltg",
+    "name": "Latgalian",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "289",
+    "iso": "la",
+    "name": "Latin",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "290",
+    "iso": "es_419",
+    "name": "Latin American Spanish",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "291",
+    "iso": "lv",
+    "name": "Latvian",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "292",
+    "iso": "lzz",
+    "name": "Laz",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "293",
+    "iso": "lez",
+    "name": "Lezghian",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "294",
+    "iso": "lij",
+    "name": "Ligurian",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "295",
+    "iso": "li",
+    "name": "Limburgish",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "296",
+    "iso": "ln",
+    "name": "Lingala",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "297",
+    "iso": "lfn",
+    "name": "Lingua Franca Nova",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "298",
+    "iso": "lzh",
+    "name": "Literary Chinese",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "299",
+    "iso": "lt",
+    "name": "Lithuanian",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "300",
+    "iso": "liv",
+    "name": "Livonian",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "301",
+    "iso": "jbo",
+    "name": "Lojban",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "302",
+    "iso": "lmo",
+    "name": "Lombard",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "303",
+    "iso": "nds",
+    "name": "Low German",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "304",
+    "iso": "sli",
+    "name": "Lower Silesian",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "305",
+    "iso": "dsb",
+    "name": "Lower Sorbian",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "306",
+    "iso": "loz",
+    "name": "Lozi",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "307",
+    "iso": "lu",
+    "name": "Luba-Katanga",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "308",
+    "iso": "lua",
+    "name": "Luba-Lulua",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "309",
+    "iso": "lui",
+    "name": "Luiseno",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "310",
+    "iso": "smj",
+    "name": "Lule Sami",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "311",
+    "iso": "lun",
+    "name": "Lunda",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "312",
+    "iso": "luo",
+    "name": "Luo",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "313",
+    "iso": "lb",
+    "name": "Luxembourgish",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "314",
+    "iso": "luy",
+    "name": "Luyia",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "315",
+    "iso": "mde",
+    "name": "Maba",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "316",
+    "iso": "mk",
+    "name": "Macedonian",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "317",
+    "iso": "jmc",
+    "name": "Machame",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "318",
+    "iso": "mad",
+    "name": "Madurese",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "319",
+    "iso": "maf",
+    "name": "Mafa",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "320",
+    "iso": "mag",
+    "name": "Magahi",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "321",
+    "iso": "vmf",
+    "name": "Main-Franconian",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "322",
+    "iso": "mai",
+    "name": "Maithili",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "323",
+    "iso": "mak",
+    "name": "Makasar",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "324",
+    "iso": "mgh",
+    "name": "Makhuwa-Meetto",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "325",
+    "iso": "kde",
+    "name": "Makonde",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "326",
+    "iso": "mg",
+    "name": "Malagasy",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "327",
+    "iso": "ms",
+    "name": "Malay kasa",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "328",
+    "iso": "ml",
+    "name": "Malayalam",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "329",
+    "iso": "mt",
+    "name": "Maltese",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "330",
+    "iso": "mnc",
+    "name": "Manchu",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "331",
+    "iso": "mdr",
+    "name": "Mandar",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "332",
+    "iso": "man",
+    "name": "Mandingo",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "333",
+    "iso": "mni",
+    "name": "Manipuri",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "334",
+    "iso": "gv",
+    "name": "Manx",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "335",
+    "iso": "mi",
+    "name": "Maori",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "336",
+    "iso": "arn",
+    "name": "Mapuche",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "337",
+    "iso": "mr",
+    "name": "Marathi",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "338",
+    "iso": "chm",
+    "name": "Mari",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "339",
+    "iso": "mh",
+    "name": "Marshallese",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "340",
+    "iso": "mwr",
+    "name": "Marwari",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "341",
+    "iso": "mas",
+    "name": "Masai",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "342",
+    "iso": "mzn",
+    "name": "Mazanderani",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "343",
+    "iso": "byv",
+    "name": "Medumba",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "344",
+    "iso": "men",
+    "name": "Mende",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "345",
+    "iso": "mwv",
+    "name": "Mentawai",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "346",
+    "iso": "mer",
+    "name": "Meru",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "347",
+    "iso": "mgo",
+    "name": "Metaʼ",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "348",
+    "iso": "es_MX",
+    "name": "Mexican Spanish",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "349",
+    "iso": "mic",
+    "name": "Micmac",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "350",
+    "iso": "dum",
+    "name": "Middle Dutch",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "351",
+    "iso": "enm",
+    "name": "Middle English",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "352",
+    "iso": "frm",
+    "name": "Middle French",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "353",
+    "iso": "gmh",
+    "name": "Middle High German",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "354",
+    "iso": "mga",
+    "name": "Middle Irish",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "355",
+    "iso": "nan",
+    "name": "Min Nan Chinese",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "356",
+    "iso": "min",
+    "name": "Minangkabau",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "357",
+    "iso": "xmf",
+    "name": "Mingrelian",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "358",
+    "iso": "mwl",
+    "name": "Mirandese",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "359",
+    "iso": "lus",
+    "name": "Mizo",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "360",
+    "iso": "ar_001",
+    "name": "Modern Standard Arabic",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "361",
+    "iso": "moh",
+    "name": "Mohawk",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "362",
+    "iso": "mdf",
+    "name": "Moksha",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "363",
+    "iso": "ro_MD",
+    "name": "Moldavian",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "364",
+    "iso": "lol",
+    "name": "Mongo",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "365",
+    "iso": "mn",
+    "name": "Mongolian",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "366",
+    "iso": "mfe",
+    "name": "Morisyen",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "367",
+    "iso": "ary",
+    "name": "Moroccan Arabic",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "368",
+    "iso": "mos",
+    "name": "Mossi",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "369",
+    "iso": "mul",
+    "name": "Multiple Languages",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "370",
+    "iso": "mua",
+    "name": "Mundang",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "371",
+    "iso": "ttt",
+    "name": "Muslim Tat",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "372",
+    "iso": "mye",
+    "name": "Myene",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "373",
+    "iso": "naq",
+    "name": "Nama",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "374",
+    "iso": "na",
+    "name": "Nauru",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "375",
+    "iso": "nv",
+    "name": "Navajo",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "376",
+    "iso": "ng",
+    "name": "Ndonga",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "377",
+    "iso": "nap",
+    "name": "Neapolitan",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "378",
+    "iso": "new",
+    "name": "Newari",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "379",
+    "iso": "ne",
+    "name": "Nɛpal kasa",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "380",
+    "iso": "sba",
+    "name": "Ngambay",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "381",
+    "iso": "nnh",
+    "name": "Ngiemboon",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "382",
+    "iso": "jgo",
+    "name": "Ngomba",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "383",
+    "iso": "yrl",
+    "name": "Nheengatu",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "384",
+    "iso": "nia",
+    "name": "Nias",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "385",
+    "iso": "niu",
+    "name": "Niuean",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "386",
+    "iso": "zxx",
+    "name": "No linguistic content",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "387",
+    "iso": "nog",
+    "name": "Nogai",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "388",
+    "iso": "nd",
+    "name": "North Ndebele",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "389",
+    "iso": "frr",
+    "name": "Northern Frisian",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "390",
+    "iso": "se",
+    "name": "Northern Sami",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "391",
+    "iso": "nso",
+    "name": "Northern Sotho",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "392",
+    "iso": "no",
+    "name": "Norwegian",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "393",
+    "iso": "nb",
+    "name": "Norwegian Bokmål",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "394",
+    "iso": "nn",
+    "name": "Norwegian Nynorsk",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "395",
+    "iso": "nov",
+    "name": "Novial",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "396",
+    "iso": "nus",
+    "name": "Nuer",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "397",
+    "iso": "nym",
+    "name": "Nyamwezi",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "398",
+    "iso": "ny",
+    "name": "Nyanja",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "399",
+    "iso": "nyn",
+    "name": "Nyankole",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "400",
+    "iso": "tog",
+    "name": "Nyasa Tonga",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "401",
+    "iso": "nyo",
+    "name": "Nyoro",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "402",
+    "iso": "nzi",
+    "name": "Nzima",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "403",
+    "iso": "nqo",
+    "name": "NʼKo",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "404",
+    "iso": "oc",
+    "name": "Occitan",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "405",
+    "iso": "oj",
+    "name": "Ojibwa",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "406",
+    "iso": "ang",
+    "name": "Old English",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "407",
+    "iso": "fro",
+    "name": "Old French",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "408",
+    "iso": "goh",
+    "name": "Old High German",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "409",
+    "iso": "sga",
+    "name": "Old Irish",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "410",
+    "iso": "non",
+    "name": "Old Norse",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "411",
+    "iso": "peo",
+    "name": "Old Persian",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "412",
+    "iso": "pro",
+    "name": "Old Provençal",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "413",
+    "iso": "or",
+    "name": "Oriya",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "414",
+    "iso": "om",
+    "name": "Oromo",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "415",
+    "iso": "osa",
+    "name": "Osage",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "416",
+    "iso": "os",
+    "name": "Ossetic",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "417",
+    "iso": "ota",
+    "name": "Ottoman Turkish",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "418",
+    "iso": "pal",
+    "name": "Pahlavi",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "419",
+    "iso": "pfl",
+    "name": "Palatine German",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "420",
+    "iso": "pau",
+    "name": "Palauan",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "421",
+    "iso": "pi",
+    "name": "Pali",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "422",
+    "iso": "pam",
+    "name": "Pampanga",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "423",
+    "iso": "pag",
+    "name": "Pangasinan",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "424",
+    "iso": "pap",
+    "name": "Papiamento",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "425",
+    "iso": "ps",
+    "name": "Pashto",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "426",
+    "iso": "pdc",
+    "name": "Pennsylvania German",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "427",
+    "iso": "fa",
+    "name": "Pɛɛhyia kasa",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "428",
+    "iso": "phn",
+    "name": "Phoenician",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "429",
+    "iso": "pcd",
+    "name": "Picard",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "430",
+    "iso": "pms",
+    "name": "Piedmontese",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "431",
+    "iso": "pdt",
+    "name": "Plautdietsch",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "432",
+    "iso": "pon",
+    "name": "Pohnpeian",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "433",
+    "iso": "pnt",
+    "name": "Pontic",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "434",
+    "iso": "pl",
+    "name": "Pɔland kasa",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "435",
+    "iso": "pt",
+    "name": "Pɔɔtugal kasa",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "436",
+    "iso": "prg",
+    "name": "Prussian",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "437",
+    "iso": "pa",
+    "name": "Pungyabi kasa",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "438",
+    "iso": "qu",
+    "name": "Quechua",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "439",
+    "iso": "ru",
+    "name": "Rahyia kasa",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "440",
+    "iso": "raj",
+    "name": "Rajasthani",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "441",
+    "iso": "rap",
+    "name": "Rapanui",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "442",
+    "iso": "rar",
+    "name": "Rarotongan",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "443",
+    "iso": "rw",
+    "name": "Rewanda kasa",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "444",
+    "iso": "rif",
+    "name": "Riffian",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "445",
+    "iso": "rgn",
+    "name": "Romagnol",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "446",
+    "iso": "rm",
+    "name": "Romansh",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "447",
+    "iso": "rom",
+    "name": "Romany",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "448",
+    "iso": "rof",
+    "name": "Rombo",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "449",
+    "iso": "ro",
+    "name": "Romenia kasa",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "450",
+    "iso": "root",
+    "name": "Root",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "451",
+    "iso": "rtm",
+    "name": "Rotuman",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "452",
+    "iso": "rug",
+    "name": "Roviana",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "453",
+    "iso": "rn",
+    "name": "Rundi",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "454",
+    "iso": "rue",
+    "name": "Rusyn",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "455",
+    "iso": "rwk",
+    "name": "Rwa",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "456",
+    "iso": "ssy",
+    "name": "Saho",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "457",
+    "iso": "sah",
+    "name": "Sakha",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "458",
+    "iso": "sam",
+    "name": "Samaritan Aramaic",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "459",
+    "iso": "saq",
+    "name": "Samburu",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "460",
+    "iso": "sm",
+    "name": "Samoan",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "461",
+    "iso": "sgs",
+    "name": "Samogitian",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "462",
+    "iso": "sad",
+    "name": "Sandawe",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "463",
+    "iso": "sg",
+    "name": "Sango",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "464",
+    "iso": "sbp",
+    "name": "Sangu",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "465",
+    "iso": "sa",
+    "name": "Sanskrit",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "466",
+    "iso": "sat",
+    "name": "Santali",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "467",
+    "iso": "sc",
+    "name": "Sardinian",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "468",
+    "iso": "sas",
+    "name": "Sasak",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "469",
+    "iso": "sdc",
+    "name": "Sassarese Sardinian",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "470",
+    "iso": "stq",
+    "name": "Saterland Frisian",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "471",
+    "iso": "saz",
+    "name": "Saurashtra",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "472",
+    "iso": "sco",
+    "name": "Scots",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "473",
+    "iso": "gd",
+    "name": "Scottish Gaelic",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "474",
+    "iso": "sly",
+    "name": "Selayar",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "475",
+    "iso": "sel",
+    "name": "Selkup",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "476",
+    "iso": "seh",
+    "name": "Sena",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "477",
+    "iso": "see",
+    "name": "Seneca",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "478",
+    "iso": "sr",
+    "name": "Serbian",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "479",
+    "iso": "sh",
+    "name": "Serbo-Croatian",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "480",
+    "iso": "srr",
+    "name": "Serer",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "481",
+    "iso": "sei",
+    "name": "Seri",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "482",
+    "iso": "ksb",
+    "name": "Shambala",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "483",
+    "iso": "shn",
+    "name": "Shan",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "484",
+    "iso": "sn",
+    "name": "Shona",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "485",
+    "iso": "ii",
+    "name": "Sichuan Yi",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "486",
+    "iso": "scn",
+    "name": "Sicilian",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "487",
+    "iso": "sid",
+    "name": "Sidamo",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "488",
+    "iso": "bla",
+    "name": "Siksika",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "489",
+    "iso": "szl",
+    "name": "Silesian",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "490",
+    "iso": "zh_Hans",
+    "name": "Simplified Chinese",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "491",
+    "iso": "sd",
+    "name": "Sindhi",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "492",
+    "iso": "si",
+    "name": "Sinhala",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "493",
+    "iso": "sms",
+    "name": "Skolt Sami",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "494",
+    "iso": "den",
+    "name": "Slave",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "495",
+    "iso": "sk",
+    "name": "Slovak",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "496",
+    "iso": "sl",
+    "name": "Slovenian",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "497",
+    "iso": "xog",
+    "name": "Soga",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "498",
+    "iso": "sog",
+    "name": "Sogdien",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "499",
+    "iso": "so",
+    "name": "Somalia kasa",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "500",
+    "iso": "snk",
+    "name": "Soninke",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "501",
+    "iso": "azb",
+    "name": "South Azerbaijani",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "502",
+    "iso": "nr",
+    "name": "South Ndebele",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "503",
+    "iso": "alt",
+    "name": "Southern Altai",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "504",
+    "iso": "sma",
+    "name": "Southern Sami",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "505",
+    "iso": "st",
+    "name": "Southern Sotho",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "506",
+    "iso": "es",
+    "name": "Spain kasa",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "507",
+    "iso": "srn",
+    "name": "Sranan Tongo",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "508",
+    "iso": "zgh",
+    "name": "Standard Moroccan Tamazight",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "509",
+    "iso": "suk",
+    "name": "Sukuma",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "510",
+    "iso": "sux",
+    "name": "Sumerian",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "511",
+    "iso": "su",
+    "name": "Sundanese",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "512",
+    "iso": "sus",
+    "name": "Susu",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "513",
+    "iso": "sw",
+    "name": "Swahili",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "514",
+    "iso": "ss",
+    "name": "Swati",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "515",
+    "iso": "sv",
+    "name": "Sweden kasa",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "516",
+    "iso": "fr_CH",
+    "name": "Swiss French",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "517",
+    "iso": "gsw",
+    "name": "Swiss German",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "518",
+    "iso": "de_CH",
+    "name": "Swiss High German",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "519",
+    "iso": "syr",
+    "name": "Syriac",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "520",
+    "iso": "shi",
+    "name": "Tachelhit",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "521",
+    "iso": "th",
+    "name": "Taeland kasa",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "522",
+    "iso": "tl",
+    "name": "Tagalog",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "523",
+    "iso": "ty",
+    "name": "Tahitian",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "524",
+    "iso": "dav",
+    "name": "Taita",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "525",
+    "iso": "tg",
+    "name": "Tajik",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "526",
+    "iso": "tly",
+    "name": "Talysh",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "527",
+    "iso": "tmh",
+    "name": "Tamashek",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "528",
+    "iso": "ta",
+    "name": "Tamil kasa",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "529",
+    "iso": "trv",
+    "name": "Taroko",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "530",
+    "iso": "twq",
+    "name": "Tasawaq",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "531",
+    "iso": "tt",
+    "name": "Tatar",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "532",
+    "iso": "te",
+    "name": "Telugu",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "533",
+    "iso": "ter",
+    "name": "Tereno",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "534",
+    "iso": "teo",
+    "name": "Teso",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "535",
+    "iso": "tet",
+    "name": "Tetum",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "536",
+    "iso": "tr",
+    "name": "Tɛɛki kasa",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "537",
+    "iso": "bo",
+    "name": "Tibetan",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "538",
+    "iso": "tig",
+    "name": "Tigre",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "539",
+    "iso": "ti",
+    "name": "Tigrinya",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "540",
+    "iso": "tem",
+    "name": "Timne",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "541",
+    "iso": "tiv",
+    "name": "Tiv",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "542",
+    "iso": "tli",
+    "name": "Tlingit",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "543",
+    "iso": "tpi",
+    "name": "Tok Pisin",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "544",
+    "iso": "tkl",
+    "name": "Tokelau",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "545",
+    "iso": "to",
+    "name": "Tongan",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "546",
+    "iso": "fit",
+    "name": "Tornedalen Finnish",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "547",
+    "iso": "zh_Hant",
+    "name": "Traditional Chinese",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "548",
+    "iso": "tkr",
+    "name": "Tsakhur",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "549",
+    "iso": "tsd",
+    "name": "Tsakonian",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "550",
+    "iso": "tsi",
+    "name": "Tsimshian",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "551",
+    "iso": "ts",
+    "name": "Tsonga",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "552",
+    "iso": "tn",
+    "name": "Tswana",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "553",
+    "iso": "tcy",
+    "name": "Tulu",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "554",
+    "iso": "tum",
+    "name": "Tumbuka",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "555",
+    "iso": "aeb",
+    "name": "Tunisian Arabic",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "556",
+    "iso": "tk",
+    "name": "Turkmen",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "557",
+    "iso": "tru",
+    "name": "Turoyo",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "558",
+    "iso": "tvl",
+    "name": "Tuvalu",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "559",
+    "iso": "tyv",
+    "name": "Tuvinian",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "560",
+    "iso": "tw",
+    "name": "Twi",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "561",
+    "iso": "kcg",
+    "name": "Tyap",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "562",
+    "iso": "udm",
+    "name": "Udmurt",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "563",
+    "iso": "uga",
+    "name": "Ugaritic",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "564",
+    "iso": "uk",
+    "name": "Ukren kasa",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "565",
+    "iso": "umb",
+    "name": "Umbundu",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "566",
+    "iso": "und",
+    "name": "Unknown Language",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "567",
+    "iso": "hsb",
+    "name": "Upper Sorbian",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "568",
+    "iso": "ur",
+    "name": "Urdu kasa",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "569",
+    "iso": "ug",
+    "name": "Uyghur",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "570",
+    "iso": "uz",
+    "name": "Uzbek",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "571",
+    "iso": "vai",
+    "name": "Vai",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "572",
+    "iso": "ve",
+    "name": "Venda",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "573",
+    "iso": "vec",
+    "name": "Venetian",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "574",
+    "iso": "vep",
+    "name": "Veps",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "575",
+    "iso": "vi",
+    "name": "Viɛtnam kasa",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "576",
+    "iso": "vo",
+    "name": "Volapük",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "577",
+    "iso": "vro",
+    "name": "Võro",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "578",
+    "iso": "vot",
+    "name": "Votic",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "579",
+    "iso": "vun",
+    "name": "Vunjo",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "580",
+    "iso": "wa",
+    "name": "Walloon",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "581",
+    "iso": "wae",
+    "name": "Walser",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "582",
+    "iso": "war",
+    "name": "Waray",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "583",
+    "iso": "wbp",
+    "name": "Warlpiri",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "584",
+    "iso": "was",
+    "name": "Washo",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "585",
+    "iso": "guc",
+    "name": "Wayuu",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "586",
+    "iso": "cy",
+    "name": "Welsh",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "587",
+    "iso": "vls",
+    "name": "West Flemish",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "588",
+    "iso": "fy",
+    "name": "Western Frisian",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "589",
+    "iso": "mrj",
+    "name": "Western Mari",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "590",
+    "iso": "wal",
+    "name": "Wolaytta",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "591",
+    "iso": "wo",
+    "name": "Wolof",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "592",
+    "iso": "wuu",
+    "name": "Wu Chinese",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "593",
+    "iso": "xh",
+    "name": "Xhosa",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "594",
+    "iso": "hsn",
+    "name": "Xiang Chinese",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "595",
+    "iso": "yav",
+    "name": "Yangben",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "596",
+    "iso": "yao",
+    "name": "Yao",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "597",
+    "iso": "yap",
+    "name": "Yapese",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "598",
+    "iso": "ybb",
+    "name": "Yemba",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "599",
+    "iso": "yi",
+    "name": "Yiddish",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "600",
+    "iso": "yo",
+    "name": "Yoruba",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "601",
+    "iso": "zap",
+    "name": "Zapotec",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "602",
+    "iso": "dje",
+    "name": "Zarma",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "603",
+    "iso": "zza",
+    "name": "Zaza",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "604",
+    "iso": "zea",
+    "name": "Zeelandic",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "605",
+    "iso": "zen",
+    "name": "Zenaga",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "606",
+    "iso": "za",
+    "name": "Zhuang",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "607",
+    "iso": "gbz",
+    "name": "Zoroastrian Dari",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "608",
+    "iso": "zu",
+    "name": "Zulu",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  },
+  {
+    "id": "609",
+    "iso": "zun",
+    "name": "Zuni",
+    "arabic": null,
+    "created_at": null,
+    "updated_at": null,
+    "translations": null,
+    "is_activated": "1"
+  }
+]

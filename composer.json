@@ -8,6 +8,13 @@
       "Milenmk\\LaravelLocations\\": "src/"
     }
   },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "Milenmk\\LaravelLocations\\MilenmkLocationsServiceProvider"
+      ]
+    }
+  },
   "authors": [
     {
       "name": "Milen Karaganski",
