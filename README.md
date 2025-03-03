@@ -9,7 +9,9 @@ Add Countries, Cities, Areas, Languages and Currencies models to your Laravel ap
 
 ## Install
 
-Run ```composer require milenmk/laravel-locations``` to install the package
+Run `composer require milenmk/laravel-locations` to install the package
+
+Run `php artisan milenmk-locations:install` to publish the migrations and seed the database tables
 
 ## Additional Information
 

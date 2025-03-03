@@ -13,11 +13,12 @@ return new class extends Migration
         Schema::create('cities', function (Blueprint $table) {
             $table->id();
             $table->string('name')->index();
-            $table->json('translations');
-            $table->boolean('is_activated')->default(1)->nullable();
             $table->unsignedBigInteger('country_id');
+            $table->json('translations');
+            $table->json('timezones')->nullable();
             $table->decimal('lat');
             $table->decimal('lng');
+            $table->boolean('is_activated')->default(1)->nullable();
             $table->timestamps();
 
             $table->foreign('country_id')->references('id')->on('countries')->onDelete('cascade');
