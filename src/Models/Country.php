@@ -12,68 +12,58 @@ use Illuminate\Support\Facades\File;
 /**
  * @property int $id
  * @property string $name
- * @property string $code
- * @property string $phone
- * @property string $lat
- * @property string $lng
+ * @property string $iso3
+ * @property string $iso2
  * @property string $numeric_code
- * @property array $translations
- * @property array $timezones
+ * @property string $phonecode
+ * @property string $currency
+ * @property string $currency_name
+ * @property string $currency_symbol
+ * @property string $tld
+ * @property string $native_name
+ * @property string $latitude
+ * @property string $longitude
  * @property bool $is_activated
+ * @property string $emoji
+ * @property string $emojiU
  * @property string $created_at
  * @property string $updated_at
- * @property string $flag
- * @property string $emojiU
- * @property string $emoji
- * @property string $wikiDataId
- * @property string $currency_symbol
- * @property string $currency_name
- * @property string $currency
- * @property string $region
- * @property string $native
- * @property string $tld
- * @property string $capital
- * @property string $nationality
- * @property string $iso3
  */
 class Country extends Model
 {
     protected $fillable = [
         'name',
-        'code',
-        'phone',
-        'lat',
-        'lng',
-        'translations',
-        'timezones',
-        'numeric_code',
-        'is_activated',
-        'flag',
-        'emojiU',
-        'emoji',
-        'wikiDataId',
-        'currency_symbol',
-        'currency_name',
-        'currency',
-        'region',
-        'native',
-        'tld',
-        'capital',
-        'nationality',
         'iso3',
-        'created_at',
-        'updated_at',
+        'iso2',
+        'numeric_code',
+        'phonecode',
+        'currency',
+        'currency_name',
+        'currency_symbol',
+        'tld',
+        'native_name',
+        'latitude',
+        'longitude',
+        'is_activated',
+        'emoji',
+        'emojiU',
     ];
 
     protected $casts = [
-        'translations' => 'json',
-        'timezones' => 'json',
         'is_activated' => 'boolean',
     ];
 
     public function cities(): HasMany
     {
         return $this->hasMany(City::class);
+    }
+
+    /**
+     * Retrieve all model active records from the database
+     */
+    public function getActive()
+    {
+        return self::where('is_activated', 1);
     }
 
     /**

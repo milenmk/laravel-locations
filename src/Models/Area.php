@@ -13,7 +13,9 @@ use Illuminate\Support\Facades\File;
  * @property int $id
  * @property string $name
  * @property int $city_id
- * @property array $translations
+ * @property int $country_id
+ * @property string $latitude
+ * @property string $longitude
  * @property bool $is_activated
  * @property string $created_at
  * @property string $updated_at
@@ -23,20 +25,32 @@ class Area extends Model
     protected $fillable = [
         'name',
         'city_id',
-        'translations',
+        'country_id',
+        'latitude',
+        'longitude',
         'is_activated',
-        'created_at',
-        'updated_at',
     ];
 
     protected $casts = [
-        'translations' => 'json',
         'is_activated' => 'boolean',
     ];
 
     public function city(): BelongsTo
     {
         return $this->belongsTo(City::class);
+    }
+
+    public function country(): BelongsTo
+    {
+        $this->belongsTo(Country::class);
+    }
+
+    /**
+     * Retrieve all model active records from the database
+     */
+    public function getActive()
+    {
+        return self::where('is_activated', 1);
     }
 
     /**

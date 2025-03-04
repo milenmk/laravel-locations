@@ -14,10 +14,9 @@ return new class extends Migration
             $table->id();
             $table->string('name')->index();
             $table->unsignedBigInteger('country_id');
-            $table->json('translations')->nullable();
-            $table->json('timezone')->nullable();
-            $table->decimal('lat')->nullable();
-            $table->decimal('lng')->nullable();
+            $table->string('city_code')->nullable();
+            $table->decimal('latitude')->nullable();
+            $table->decimal('longitude')->nullable();
             $table->boolean('is_activated')->default(1)->nullable();
             $table->timestamps();
 

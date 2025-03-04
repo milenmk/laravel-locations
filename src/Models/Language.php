@@ -32,6 +32,14 @@ class Language extends Model
     ];
 
     /**
+     * Retrieve all model active records from the database
+     */
+    public function getActive()
+    {
+        return self::where('is_activated', 1);
+    }
+
+    /**
      * @throws FileNotFoundException
      */
     public function getRows()

@@ -1,6 +1,18 @@
 ## About
 
-Add Countries, Cities, Areas, Languages and Currencies models to your Laravel application
+This package provides large database with Countries, Cities, Areas, Languages and Currencies models to your Laravel application
+
+The database contains:
+
+- 250 Countries
+- 5038 Cities (States/Regions)
+- 149350 Areas (Cities part of a State/Region)
+
+After installation, you can use the Package models to retrieve the data OR directly use the json files.
+
+By default, all records are active (the field `is_activated` has a value of 1).
+
+Is you want to exclude certain records, change the field value to 0 and use the model method `getActive()`
 
 ## Requirements
 
@@ -13,7 +25,8 @@ Run `composer require milenmk/laravel-locations` to install the package
 
 Run `php artisan milenmk-locations:install` to publish the migrations and seed the database tables
 
-When the command is run, the database tables for the models will be created and then they will be seeded with predefined data included in the json files.
+When the command is run, the database tables for the models will be created and then they will be seeded with
+the data included in the json files.
 
 ## Additional Information
 

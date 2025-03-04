@@ -14,9 +14,9 @@ use Illuminate\Support\Facades\File;
  * @property int $id
  * @property string $name
  * @property int $country_id
- * @property string $lat
- * @property string $lng
- * @property array $translations
+ * @property int $city_code
+ * @property string $latitude
+ * @property string $longitude
  * @property bool $is_activated
  * @property string $created_at
  * @property string $updated_at
@@ -25,17 +25,14 @@ class City extends Model
 {
     protected $fillable = [
         'name',
-        'translations',
-        'is_activated',
         'country_id',
-        'lat',
-        'lng',
-        'created_at',
-        'updated_at',
+        'city_code',
+        'latitude',
+        'longitude',
+        'is_activated',
     ];
 
     protected $casts = [
-        'translations' => 'json',
         'is_activated' => 'boolean',
     ];
 
@@ -47,6 +44,14 @@ class City extends Model
     public function areas(): HasMany
     {
         return $this->hasMany(Area::class);
+    }
+
+    /**
+     * Retrieve all model active records from the database
+     */
+    public function getActive()
+    {
+        return self::where('is_activated', 1);
     }
 
     /**
