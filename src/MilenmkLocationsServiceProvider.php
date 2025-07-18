@@ -7,6 +7,7 @@ namespace Milenmk\LaravelLocations;
 use Illuminate\Support\ServiceProvider;
 use Milenmk\LaravelLocations\Console\MilenmkLocationsInstallCommand;
 use Milenmk\LaravelLocations\Console\MilenmkLocationsSeedCommand;
+use Milenmk\LaravelLocations\Console\MilenmkLocationsUpdateCountryTranslationsCommand;
 
 class MilenmkLocationsServiceProvider extends ServiceProvider
 {
@@ -16,6 +17,7 @@ class MilenmkLocationsServiceProvider extends ServiceProvider
         $this->commands([
             MilenmkLocationsInstallCommand::class,
             MilenmkLocationsSeedCommand::class,
+            MilenmkLocationsUpdateCountryTranslationsCommand::class,
         ]);
 
         // Register Migrations

@@ -19,10 +19,8 @@ class MilenmkLocationsInstallCommand extends Command
 
     public function handle(): void
     {
-        $this->info('Publish Vendor Assets');
+        $this->info('Publish Package Assets');
         $this->call('migrate');
-        $this->call('optimize');
-        $this->call('milenmk-locations:seed');
-        $this->info('Locations installed successfully.');
+        $this->info('Laravel Locations installed successfully.');
     }
 }

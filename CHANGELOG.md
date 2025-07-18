@@ -1,3 +1,12 @@
+## v1.3.0
+
+#### Published at: 2025-07-18
+
+- [NEW] Translations for countries added to the package data file
+- [NEW] Migration file to add `translations` field to country datatable
+- [NEW] Command to migrate only the translations for existing installations of the package
+- Reworked README.md
+
 ## v1.1.0
 
 #### Published at: 2025-03-04

@@ -27,7 +27,7 @@ class Language extends Model
     ];
 
     protected $casts = [
-        'translations' => 'json',
+        'translations' => 'array',
         'is_activated' => 'boolean',
     ];
 

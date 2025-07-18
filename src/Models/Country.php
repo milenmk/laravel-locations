@@ -47,9 +47,11 @@ class Country extends Model
         'is_activated',
         'emoji',
         'emojiU',
+        'translations',
     ];
 
     protected $casts = [
+        'translations' => 'array',
         'is_activated' => 'boolean',
     ];
 
