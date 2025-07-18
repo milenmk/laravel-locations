@@ -47,6 +47,10 @@ class MilenmkLocationsSeedCommand extends Command
             $progress->setBarCharacter('█');
 
             foreach ($countries as $country) {
+                // Ensure the 'translations' field is JSON encoded
+                if (isset($country['translations'])) {
+                    $country['translations'] = json_encode($country['translations']);
+                }
                 DB::table('countries')->insert($country);
                 $progress->advance();
             }

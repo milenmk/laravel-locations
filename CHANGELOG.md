@@ -1,3 +1,9 @@
+## v1.3.1
+
+#### Published at: 2025-07-18
+
+- [FIX] `Array to string conversion error` when seeding the database
+
 ## v1.3.0
 
 #### Published at: 2025-07-18
