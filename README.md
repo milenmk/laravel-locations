@@ -11,7 +11,7 @@
         <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/milenmk/laravel-locations">
     </a>
     <a href="https://laravel.com/docs" target="_blank">
-        <img src="https://img.shields.io/badge/Laravel-10.x-orange?style=flat-square&logo=laravel" alt="Laravel 10 Support" />
+        <img src="https://img.shields.io/badge/Laravel-10.x|11.x|12.x-orange?style=flat-square&logo=laravel" alt="Laravel 10 Support" />
     </a>
     <a href="https://www.php.net" target="_blank">
         <img src="https://img.shields.io/packagist/php-v/milenmk/laravel-locations?style=flat-square" alt="PHP Version Support" />
