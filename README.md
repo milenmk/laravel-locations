@@ -122,6 +122,21 @@ Please see [CHANGELOG.md](CHANGELOG.md) for more information on what has changed
 If this package saves you time, you can support ongoing development:  
 👉 [Become a Patron](https://www.patreon.com/c/LaravelAddonsbyMilen)
 
+## Other Packages
+
+Check out my other Laravel packages:
+
+- **[Laravel Blacklist](https://packagist.org/packages/milenmk/laravel-blacklist)** - A Laravel package for blacklist
+  validation of user input
+- **[Laravel Email Change Confirmation](https://packagist.org/packages/milenmk/laravel-email-change-confirmation)** -
+  Secure email change confirmation system
+- **[Laravel GDPR Exporter](https://packagist.org/packages/milenmk/laravel-gdpr-exporter)** - GDPR-compliant data export
+  functionality
+- **[Laravel Rate Limiting](https://packagist.org/packages/milenmk/laravel-rate-limiting)** - Advanced rate limiting
+  capabilities with exponential backoff
+- **[Laravel Datatables and Forms](https://packagist.org/packages/milenmk/laravel-simple-datatables-and-forms)** - Easy
+  to use package to create datatables and forms for Livewire components
+
 ## License
 
 This package is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
