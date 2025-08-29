@@ -2,14 +2,14 @@
 
 <div align="center">
 
-<a href="https://packagist.org/packages/milenmk/laravel-locations">![Latest Version on Packagist](https://img.shields.io/packagist/v/milenmk/laravel-locations.svg?style=flat-square)</a>
-<a href="https://packagist.org/packages/milenmk/laravel-locations">![Total Downloads](https://img.shields.io/packagist/dt/milenmk/laravel-locations.svg?style=flat-square)</a>
+<a href="https://packagist.org/packages/milenmk/laravel-locations">![Latest Version on Packagist](https://img.shields.io/packagist/v/milenmk/laravel-locations.svg?style=flat)</a>
+<a href="https://packagist.org/packages/milenmk/laravel-locations">![Total Downloads](https://img.shields.io/packagist/dt/milenmk/laravel-locations.svg?style=flat)</a>
 <a href="https://github.com/milenmk/laravel-locations">![GitHub User's stars](https://img.shields.io/github/stars/milenmk/laravel-locations)</a>
-<a href="https://laravel.com/docs">![Laravel 10 Support](https://img.shields.io/badge/Laravel-10.x|11.x|12.x-orange?style=flat-square&logo=laravel)</a>
-<a href="https://www.php.net">![PHP Version Support](https://img.shields.io/packagist/php-v/milenmk/laravel-locations?style=flat-square)</a>
-<a href="https://github.com/milenmk/laravel-locations/blob/develop/LICENSE.md">![License](https://img.shields.io/packagist/l/milenmk/laravel-locations.svg?style=flat-square)</a>
-<a href="https://github.com/milenmk/laravel-locations/issues">![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square)</a>
-<a href="https://www.patreon.com/c/LaravelAddonsbyMilen">![Sponsor me](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ff69b4?style=flat-square)</a>
+<a href="https://laravel.com/docs">![Laravel 10 Support](https://img.shields.io/badge/Laravel-10.x|11.x|12.x-orange?style=flat&logo=laravel)</a>
+<a href="https://www.php.net">![PHP Version Support](https://img.shields.io/packagist/php-v/milenmk/laravel-locations?style=flat)</a>
+<a href="https://github.com/milenmk/laravel-locations/blob/develop/LICENSE.md">![License](https://img.shields.io/packagist/l/milenmk/laravel-locations.svg?style=flat)</a>
+<a href="https://github.com/milenmk/laravel-locations/issues">![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)</a>
+<a href="https://www.patreon.com/c/LaravelAddonsbyMilen">![Sponsor me](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ff69b4?style=flat)</a>
 
 </div>
 
@@ -112,6 +112,8 @@ If this package saves you time, you can support ongoing development:
 
 Check out my other Laravel packages:
 
+- **[Laravel GDPR Cookie Manager](https://packagist.org/packages/milenmk/laravel-gdpr-cookie-manager)** - GDPR-compliant
+  cookie consent management with user preference tracking
 - **[Laravel Blacklist](https://packagist.org/packages/milenmk/laravel-blacklist)** - A Laravel package for blacklist
   validation of user input
 - **[Laravel Email Change Confirmation](https://packagist.org/packages/milenmk/laravel-email-change-confirmation)** -
