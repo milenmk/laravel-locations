@@ -1,3 +1,11 @@
+## v1.3.2
+
+#### Published: 2025-08-29
+
+- Enhance README with responsive badge links
+- Adds a list of other Laravel packages to the README
+- Improved DISCLAIMER in README
+
 ## v1.3.1
 
 #### Published at: 2025-07-18
