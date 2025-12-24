@@ -13,7 +13,7 @@
 
 </div>
 
-This package provides a large database with Countries, Cities, Areas, Languages and Currencies models to your Laravel application
+Laravel Locations provides a large database with Countries, Cities, Areas, Languages and Currencies models to your Laravel application
 
 The package is ideal for applications that need:
 
@@ -23,17 +23,19 @@ The package is ideal for applications that need:
 - Currency conversion functionality
 - Location-based features and filtering
 
-The database contains:
+### Database Contents
 
 - 250 Countries
 - 5038 Cities (States/Regions)
-- 149350 Areas (Cities part of a State/Region)
+- 149,350 Areas (subdivisions of Cities/States)
 
-After installation, you can use the Package models to retrieve the data OR directly use the JSON files.
+You can access this data either via the **Eloquent models** or directly through the **JSON files** included in the package.
 
-By default, all records are active (the field `is_activated` has a value of 1).
+By default, all records are active (`is_activated = 1`). You can filter active records using the **`activated()` scope**.
 
-If you want to exclude certain records, change the field value to 0 and use the model method `getActive()`
+> **Deprecated:** `getActive()` method is deprecated since v1.4.0. Use `activated()` scope instead.
+
+---
 
 ## Requirements
 

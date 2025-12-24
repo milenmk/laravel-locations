@@ -1,3 +1,17 @@
+## v1.4.0
+
+#### Published: 2025-12-24
+
+- [NEW] Added `activated()` scope for filtering by `is_activated` property.
+- [NEW] Added `scopeByName()` to filter models by translation in a given locale, with English fallback.
+- [NEW] Added `getName()` helper to retrieve model name in a given locale, with English fallback.
+- [DEPRECATED] `getActive()` method is now deprecated; use `activated()` scope instead.
+- [REFAC] Extracted shared functionality into `HasTranslationsAndActivation` trait (used by Country, City, Area) to reduce code duplication.
+- [REFAC] Extracted `getRows()` JSON reading logic into `HasJsonRows` trait with caching and configurable paths.
+- [NEW] JSON reading (`getRows()`) now caches results for 1 hour and allows optional config override of file paths.
+- [UPDATE] Resources (`CountryResource`, `CityResource`, `AreaResource`) updated to dynamically return names based on requested locale.
+- [ENHANCEMENT] `scopeNear()` in City model remains for proximity filtering using Haversine formula.
+
 ## v1.3.2
 
 #### Published: 2025-08-29

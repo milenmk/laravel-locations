@@ -1,21 +1,23 @@
-#### Use Eager Loading
+# Performance
 
-When retrieving related models, use eager loading to avoid N+1 query problems:
+Laravel Locations includes large datasets for production usage.
 
+### Recommendations
+
+- Use `activated()` scope to limit queries to active records.
+- Use `getRows()` if you want to load data from JSON files instead of querying the database for faster performance in read-heavy operations.
+- Cache results from `getRows()` or queries when repeatedly used in forms or APIs.
+- Only load relations when needed (`cities`, `areas`) using `with()` or `whenLoaded()` in resources.
+
+### Example
+
+```php
+use Milenmk\Locations\Models\Country;
+
+$countries = Country::activated()->with('cities')->get(); // Only load active countries with their cities
 ```
-$countries = Country::with(['cities', 'cities.areas'])->get();
-```
 
-#### Cache Common Queries
-
-For data that doesn't change often, consider caching:
-
-```
-$countries = Cache::remember('all_countries', 60*24, function () {
-    return Country::all();
-});
-
-```
+For dynamic selects and forms, use `getName($locale)` to avoid extra joins or queries for translation data.
 
 #### Pagination
 

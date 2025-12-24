@@ -1,163 +1,33 @@
-```
-class Country extends Model
-{
-    protected $fillable = [
-        'name',
-        'iso3',
-        'iso2',
-        'numeric_code',
-        'phonecode',
-        'currency',
-        'currency_name',
-        'currency_symbol',
-        'tld',
-        'native_name',
-        'latitude',
-        'longitude',
-        'is_activated',
-        'emoji',
-        'emojiU',
-        'translations',
-    ];
-
-    protected $casts = [
-        'translations' => 'array',
-        'is_activated' => 'boolean',
-    ];
-
-    public function cities(): HasMany
-    {
-        return $this->hasMany(City::class);
-    }
-
-    /**
-     * Retrieve all model active records from the database
-     */
-    public function getActive()
-    {
-        return self::where('is_activated', 1);
-    }
-
-    /**
-     * @throws FileNotFoundException
-     */
-    public function getRows()
-    {
-        $countryJson = __DIR__ . '/../../database/data/countries.json';
-
-        $jsonFileExists = File::exists($countryJson);
-        if ($jsonFileExists) {
-            return json_decode(File::get($countryJson), true);
-        } else {
-            return [];
-        }
-    }
-}
+```php
+- `id`, `name`, `iso3`, `iso2`, `numeric_code`, `phonecode`, `currency`, `currency_name`, `currency_symbol`, `tld`, `native_name`, `latitude`, `longitude`, `is_activated`, `emoji`, `emojiU`, `translations`,
+- `activated()` scope
+- `scopeByName($term, $locale = 'EN')`
+- `getName($locale = 'EN')`
+- `cities()` relation
+- `getRows()` JSON reader
 ```
 
-```
-class City extends Model
-{
-    protected $fillable = [
-        'name',
-        'country_id',
-        'city_code',
-        'latitude',
-        'longitude',
-        'is_activated',
-    ];
-
-    protected $casts = [
-        'is_activated' => 'boolean',
-    ];
-
-    public function country(): BelongsTo
-    {
-        return $this->belongsTo(Country::class);
-    }
-
-    public function areas(): HasMany
-    {
-        return $this->hasMany(Area::class);
-    }
-
-    /**
-     * Retrieve all model active records from the database
-     */
-    public function getActive()
-    {
-        return self::where('is_activated', 1);
-    }
-
-    /**
-     * @throws FileNotFoundException
-     */
-    public function getRows()
-    {
-        $cityJson = __DIR__ . '/../../database/data/cities.json';
-
-        $jsonFileExists = File::exists($cityJson);
-        if ($jsonFileExists) {
-            return json_decode(File::get($cityJson), true);
-        } else {
-            return [];
-        }
-    }
-}
+```php
+- `id`, `name`, `country_id`, `city_code`, `latitude`, `longitude`, `is_activated`
+- `activated()` scope
+- `scopeByName($term, $locale = 'EN')`
+- `getName($locale = 'EN')`
+- `country()` relation
+- `areas()` relation
+- `scopeNear($lat, $lng, $radius = 50)` proximity search
+- `getRows()` JSON reader
 ```
 
-```
-class Area extends Model
-{
-    protected $fillable = [
-        'name',
-        'city_id',
-        'country_id',
-        'latitude',
-        'longitude',
-        'is_activated',
-    ];
-
-    protected $casts = [
-        'is_activated' => 'boolean',
-    ];
-
-    public function city(): BelongsTo
-    {
-        return $this->belongsTo(City::class);
-    }
-
-    public function country(): BelongsTo
-    {
-        $this->belongsTo(Country::class);
-    }
-
-    /**
-     * Retrieve all model active records from the database
-     */
-    public function getActive()
-    {
-        return self::where('is_activated', 1);
-    }
-
-    /**
-     * @throws FileNotFoundException
-     */
-    public function getRows()
-    {
-        $areaJson = __DIR__ . '/../../database/data/areas.json';
-
-        $jsonFileExists = File::exists($areaJson);
-        if ($jsonFileExists) {
-            return json_decode(File::get($areaJson), true);
-        } else {
-            return [];
-        }
-    }
-}
+```php
+- `id`, `name`, `city_id`, `country_id`, `latitude`, `longitude`, `is_activated`, `translations`
+- `activated()` scope
+- `scopeByName($term, $locale = 'EN')`
+- `getName($locale = 'EN')`
+- `city()` relation
+- `getRows()` JSON reader
 ```
 
-```
+```php
 class Currency extends Model
 {
     protected $fillable = [
@@ -203,7 +73,7 @@ class Currency extends Model
 }
 ```
 
-```
+```php
 class Language extends Model
 {
     protected $fillable = [
